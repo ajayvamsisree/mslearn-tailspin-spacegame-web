@@ -122,9 +122,6 @@ steps:
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact: drop'
   condition: succeeded()
-<<<<<<< HEAD
-=======
 
-
-
->>>>>>> 5579efa586592524ecfaf46699e2d55ae2029c3a
+  
+  
